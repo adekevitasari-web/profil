@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Halaman Profil Pribadi Adek Evita Sarah">
+    <meta name="keywords" content="profil, biodata, Adek Evita Sarah">
+    <meta name="author" content="Adek Evita Sarah">
+    <title>Profil Saya - Adek Evita Sarah</title>
+</head>
+<body>
+
+    <!-- HEADER -->
+    <header>
+        <h1>🌟 BIODATA PRIBADI 🌟</h1>
+        <hr>
+    </header>
+
+    <!-- FOTO PROFIL -->
+    <h2>Foto Profil</h2>
+    <img src="C:\Users\Hype\Downloads\pita.JPEG" alt="Foto Profil Adek Evita Sarah" width="200" height="250">
+    <p><em>Mahasiswi Universitas Muhammadiyah Sumatera Utara</em></p>
+
+    <!-- TENTANG SAYA -->
+    <h2>📝 Tentang Saya</h2>
+    <p>
+        Halo! Perkenalkan nama saya <strong>Adek Evita Sarah</strong>. 
+        Saya lahir di Jalan Utama 1 Desa Kolam, Tembung. 
+        Saat ini saya sedang menempuh pendidikan di 
+        <strong>Universitas Muhammadiyah Sumatera Utara</strong>.
+    </p>
+    <p>
+        Saya memiliki hobi berbelanja dan menonton drakor. 
+        Saya bercita-cita menjadi seorang <strong>Dokter</strong>.
+    </p>
+
+    <!-- DATA PRIBADI -->
+    <h2>📋 Data Pribadi</h2>
+    <ul>
+        <li><strong>Nama Lengkap:</strong> Adek Evita Sarah</li>
+        <li><strong>Alamat:</strong> Jalan Utama 1 Desa Kolam</li>
+        <li><strong>Status:</strong> Belum Menikah</li>
+        <li><strong>Agama:</strong> Islam</li>
+        <li><strong>Kewarganegaraan:</strong> Indonesia</li>
+        <li><strong>Cita-cita:</strong> Dokter</li>
+    </ul>
+
+    <!-- HOBI -->
+    <h2>🎨 Hobi & Minat</h2>
+    <ul>
+        <li>Shopping</li>
+        <li>Menonton Drama Korea</li>
+    </ul>
+
+    <!-- RIWAYAT PENDIDIKAN -->
+    <h2>🎓 Riwayat Pendidikan</h2>
+    <ol>
+        <li><strong>MIS Bidayatul Hidayah 2</strong> (2012 - 2018) </li>
+        <li><strong>SMPIT Bina Insan Batang Kuis</strong> (2018 - 2021) </li>
+        <li><strong>SMK Swasta Mandiri Pasar 3 Tembung</strong> (2021 - 2024) </li>
+        <li><strong>Universitas Muhammadiyah Sumatera Utara</strong> (masih menjadi mahasiswa aktif)</li>
+    </ol>
+
+    <!-- PENCAPAIAN -->
+    <h2>🏆 Pencapaian</h2>
+    <ul>
+        <li>Khatam Juz 29 dan 30 saat SMP</li>
+    </ul>
+
+    <!-- KONTAK -->
+    <h2>📞 Kontak</h2>
+    <ul>
+        <li>
+            <strong>Email:</strong> 
+            <a href="mailto:adekevitasari@gmail.com">adekevitasari@gmail.com</a>
+        </li>
+    </ul>
+
+    <!-- SOSIAL MEDIA -->
+    <h2>📱 Social Media</h2>
+    <ul>
+        <li>
+            <strong>X:</strong> 
+            <a href="https://x.com/pitaaaaa06" target="_blank">x.com/pitaaaaa06</a>
+        </li>
+        <li>
+            <strong>Instagram:</strong> 
+            <a href="https://www.instagram.com/adevtasrah" target="_blank">
+                instagram.com/adevtasrah
+            </a>
+        </li>
+    </ul>
+
+    <!-- FOOTER -->
+    <hr>
+    <footer>
+        <p>
+            &copy; 2026 Adek Evita Sarah. All rights reserved.<br>
+            Halaman ini dibuat untuk pembelajaran HTML dasar.
+        </p>
+    </footer>
+
+</body>
+</html>
